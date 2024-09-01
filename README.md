@@ -7,7 +7,7 @@ This repository contains a collection of my work related to Microsoft SQL Server
 
 The project within this repository represents a comprehensive approach to managing data within a Microsoft SQL Server environment, focusing on data warehousing techniques. This project was completed as part of my coursework at Grand Canyon University and demonstrates my proficiency in using SQL for data manipulation, aggregation, and analysis.
 
-## Project
+## Projects
 
 ### 1. **Microsoft SQL Server Data Warehousing**
    - **Description**: This project involves designing and querying a data warehouse using Microsoft SQL Server. The report includes SQL scripts used for querying and analyzing financial data within a data warehouse, showcasing techniques such as data partitioning, aggregation, and the use of Common Table Expressions (CTEs) for data analysis.
